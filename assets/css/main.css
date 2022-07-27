@@ -4359,7 +4359,7 @@ body.is-preload #header .image img {
 }
 
 .textAnimation span{ 
-	font-size: 25pt;
+	font-size: 17pt;
 	font-weight: bold;
 	font-family: "Fredoka One";
 	cursor: pointer;
@@ -4472,12 +4472,13 @@ body.is-preload #header .image img {
 
 #travelity{
 	font-weight: bold;
-}
+} 
 
-
-.contenedor-imagenes {
-	display: flex;
-	align-items: center;
+  .contenedor-imagenes {
+	
   }
- 
 
+.lastText{
+	align-items: center;
+	text-align: center;
+}
