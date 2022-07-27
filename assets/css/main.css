@@ -4460,8 +4460,8 @@ body.is-preload #header .image img {
 } 
 
 #imgOne{
-	width: 400px;
-	height: 260px;
+	width: 360px;
+	height: 250px;
 	transition: 0.5s;
 	object-fit: cover;
 }
@@ -4477,8 +4477,3 @@ body.is-preload #header .image img {
   .contenedor-imagenes {
 	
   }
-
-.lastText{
-	align-items: center;
-	text-align: center;
-}
