@@ -4359,7 +4359,7 @@ body.is-preload #header .image img {
 }
 
 .textAnimation span{ 
-	font-size: 16pt;
+	font-size: 15pt;
 	font-weight: bold;
 	font-family: "Fredoka One";
 	cursor: pointer;
@@ -4456,11 +4456,11 @@ body.is-preload #header .image img {
 
 .imgAnimation{
 	overflow: hidden;
-	margin: 25px;
+	margin: 20px;
 } 
 
 #imgOne{
-	width: 430px;
+	width: 440px;
 	height: 350px;
 	transition: 0.5s;
 }
