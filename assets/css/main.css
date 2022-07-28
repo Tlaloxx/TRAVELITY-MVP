@@ -4359,7 +4359,7 @@ body.is-preload #header .image img {
 }
 
 .textAnimation span{ 
-	font-size: 15pt;
+	font-size: 17pt;
 	font-weight: bold;
 	font-family: "Fredoka One";
 	cursor: pointer;
@@ -4460,10 +4460,9 @@ body.is-preload #header .image img {
 } 
 
 #imgOne{
-	width: 360px;
-	height: 250px;
+	width: 410px;
+	height: 360px;
 	transition: 0.5s;
-	object-fit: cover;
 }
 
 #imgOne:hover{
@@ -4473,4 +4472,8 @@ body.is-preload #header .image img {
 #travelity{
 	font-weight: bold;
 } 
+
+
+
+
 
