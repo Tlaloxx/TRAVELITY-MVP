@@ -4456,12 +4456,12 @@ body.is-preload #header .image img {
 
 .imgAnimation{
 	overflow: hidden;
-	margin: 20px;
+	margin: 25px;
 } 
 
 #imgOne{
-	width: 410px;
-	height: 360px;
+	width: 430px;
+	height: 350px;
 	transition: 0.5s;
 }
 
